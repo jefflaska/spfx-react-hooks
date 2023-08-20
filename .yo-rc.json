@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.2",
+    "libraryName": "spfx-react-hooks",
+    "libraryId": "0a5b7ef3-51e8-476e-a907-c1d4257ed7aa",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-react-hooks",
+    "solutionShortDescription": "spfx-react-hooks description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
